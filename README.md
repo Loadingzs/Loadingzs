@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍�uter Sobre mim
+### Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Senac
 - 💼 Ex-Jovem Aprendiz no **CPQD** — maior centro de P&D em TIC da América Latina
