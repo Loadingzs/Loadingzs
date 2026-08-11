@@ -49,17 +49,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![Maykon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loadingzs&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loadingzs&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
----
 
 ### 🎯 Atualmente
 
