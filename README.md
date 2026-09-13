@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Maykon Dias 👋
+# Olá
 
 **Desenvolvedor Back-End em formação | Python · Java · JavaScript | Campinas, SP**
 
