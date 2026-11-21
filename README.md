@@ -8,7 +8,7 @@ Java · Python · APIs REST · Banco de dados
 
 Campinas, SP · Buscando uma oportunidade de estágio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maykon-dias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maykondias/)
 [![E-mail](https://img.shields.io/badge/Contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykon07dias@gmail.com)
 
 </div>
@@ -48,6 +48,6 @@ Também estudo e utilizo **JavaScript, HTML, CSS, PostgreSQL e Git**.
 
 **Vamos conversar?** Estou aberto a oportunidades de estágio e trocas sobre desenvolvimento.
 
-[LinkedIn](https://www.linkedin.com/in/maykon-dias) · [E-mail](mailto:maykon07dias@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maykondias/) · [E-mail](mailto:maykon07dias@gmail.com)
 
 </div>
