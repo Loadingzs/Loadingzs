@@ -1,53 +1,48 @@
+## Olá, eu sou o Maykon. Seja bem-vindo! 👋
+
+**Desenvolvedor Back-End em formação · Java & Python · Campinas, SP**
+
 <div align="center">
+  <a href="https://github.com/Loadingzs">
+    <img width="54%" height="180" src="https://github-readme-stats.vercel.app/api?username=Loadingzs&show_icons=true&theme=dark&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9&border_color=30363d&locale=pt-br&custom_title=Loadingzs%20%7C%20GitHub" alt="Estatísticas públicas do GitHub de Loadingzs" />
+    <img width="44%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loadingzs&layout=compact&theme=dark&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=30363d&locale=pt-br&langs_count=6&card_width=360" alt="Linguagens mais usadas nos repositórios de Loadingzs" />
+  </a>
+</div>
 
-# Olá, eu sou o Maykon 👋
+<br />
 
-### Desenvolvedor Back-End em formação
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,flask,mysql,js,html,css,git&theme=dark&perline=10" width="680" alt="Tecnologias: Java, Python, Spring, FastAPI, Flask, MySQL, JavaScript, HTML, CSS e Git" />
+</div>
 
-Java · Python · APIs REST · Banco de dados
+<br />
 
-Campinas, SP · Buscando uma oportunidade de estágio
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maykondias/)
-[![E-mail](https://img.shields.io/badge/Contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykon07dias@gmail.com)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/maykondias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Maykon" />
+  </a>
+  <a href="mailto:maykon07dias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Maykon" />
+  </a>
 </div>
 
 ---
 
-### Sobre mim
+### Um pouco sobre mim
 
-Estudo **Análise e Desenvolvimento de Sistemas no Senac** e estou construindo meu portfólio com foco em back-end. Gosto de transformar regras de negócio em aplicações e aprender a organizar melhor o código a cada projeto.
-
-- 💼 Experiência como Jovem Aprendiz no **CPQD**.
-- 🎓 Formação de **200 horas em Back-End** pelo Bolsa Futuro Digital, com Python, Flask e FastAPI.
-- 🌱 Atualmente estudando **Java, Spring Boot, APIs REST e arquitetura back-end**.
-- 🎯 Em busca da minha primeira oportunidade de **estágio em desenvolvimento**.
-
-### Tecnologias
-
-![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=60A5FA)
-![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=60A5FA)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=60A5FA)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
-![Flask](https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=60A5FA)
-![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
-
-Também estudo e utilizo **JavaScript, HTML, CSS, PostgreSQL e Git**.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas no Senac**.
+- 💼 Experiência como **Jovem Aprendiz no CPQD**.
+- 🐍 Formação de **200h em Back-End** pelo Bolsa Futuro Digital: Python, Flask e FastAPI.
+- 🌱 Aprofundando meus estudos em **Java, Spring Boot, APIs REST e banco de dados**.
+- 🎯 Buscando minha primeira oportunidade de **estágio em desenvolvimento**.
 
 ### Projetos em destaque
 
-| Projeto | Foco |
+| Projeto | O que você encontra |
 | :--- | :--- |
 | [📚 Biblioteca API](https://github.com/Loadingzs/biblioteca-api) | Gerenciamento de biblioteca com Java e Spring Boot. |
 | [🛠️ Sistema de Biblioteca — Refatoração](https://github.com/Loadingzs/sistema-biblioteca-web) | Separação de responsabilidades, regras de negócio e persistência com Java, JDBC e MySQL. |
 
----
-
 <div align="center">
-
-**Vamos conversar?** Estou aberto a oportunidades de estágio e trocas sobre desenvolvimento.
-
-[LinkedIn](https://www.linkedin.com/in/maykondias/) · [E-mail](mailto:maykon07dias@gmail.com)
-
+  <sub>Construindo meu caminho no desenvolvimento, um projeto de cada vez.</sub>
 </div>
