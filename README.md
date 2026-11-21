@@ -1,11 +1,15 @@
 <div align="center">
 
-# Olá
+# Olá, eu sou o Maykon 👋
 
-**Desenvolvedor Back-End em formação | Python · Java · JavaScript | Campinas, SP**
+### Desenvolvedor Back-End em formação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykon-dias)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykon07dias@gmail.com)
+Java · Python · APIs REST · Banco de dados
+
+Campinas, SP · Buscando uma oportunidade de estágio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maykon-dias)
+[![E-mail](https://img.shields.io/badge/Contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykon07dias@gmail.com)
 
 </div>
 
@@ -13,54 +17,37 @@
 
 ### Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Senac
-- 💼 Ex-Jovem Aprendiz no **CPQD** — maior centro de P&D em TIC da América Latina
-- 🏆 Concluí **200h de Back-End** (Python, Flask, FastAPI) pelo **Bolsa Futuro Digital**
-- 🎯 Buscando minha primeira oportunidade como **Estagiário em Desenvolvimento**
-- 📍 Campinas, SP
+Estudo **Análise e Desenvolvimento de Sistemas no Senac** e estou construindo meu portfólio com foco em back-end. Gosto de transformar regras de negócio em aplicações e aprender a organizar melhor o código a cada projeto.
 
----
+- 💼 Experiência como Jovem Aprendiz no **CPQD**.
+- 🎓 Formação de **200 horas em Back-End** pelo Bolsa Futuro Digital, com Python, Flask e FastAPI.
+- 🌱 Atualmente estudando **Java, Spring Boot, APIs REST e arquitetura back-end**.
+- 🎯 Em busca da minha primeira oportunidade de **estágio em desenvolvimento**.
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias
 
-**Back-End**
+![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=60A5FA)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
+![Flask](https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=60A5FA)
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Também estudo e utilizo **JavaScript, HTML, CSS, PostgreSQL e Git**.
 
-**Front-End**
+### Projetos em destaque
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-
-
-### 🎯 Atualmente
-
-- 📚 Estudando **Spring Boot** e **APIs RESTful** com Java
-- 🔨 Construindo projetos práticos para portfólio
-- 🌱 Aprofundando conhecimentos em **banco de dados** e **arquitetura back-end**
+| Projeto | Foco |
+| :--- | :--- |
+| [📚 Biblioteca API](https://github.com/Loadingzs/biblioteca-api) | Gerenciamento de biblioteca com Java e Spring Boot. |
+| [🛠️ Sistema de Biblioteca — Refatoração](https://github.com/Loadingzs/sistema-biblioteca-web) | Separação de responsabilidades, regras de negócio e persistência com Java, JDBC e MySQL. |
 
 ---
 
 <div align="center">
 
-💬 **Aberto a conversas sobre estágio e oportunidades em desenvolvimento!**
+**Vamos conversar?** Estou aberto a oportunidades de estágio e trocas sobre desenvolvimento.
+
+[LinkedIn](https://www.linkedin.com/in/maykon-dias) · [E-mail](mailto:maykon07dias@gmail.com)
 
 </div>
